@@ -16,3 +16,8 @@
 **2026/2027**
 
 ---
+
+# Link Video Wawancara
+https://drive.google.com/drive/folders/1l4nOx1xUz2FCpVMeaJBx3_wZJZzMScea
+
+---
