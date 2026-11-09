@@ -6,10 +6,13 @@
 
 | No. | Nama | NIM |
 |---|---|---|
-| 1. | Aban Riziq Ariyanto | 4524210002 |
-| 2. | Alifasya Fahrizy Tamher | 4525210121 |
+| 1. | Alifasya Fahrizy Tamher | 4525210121 |
+| 2. | Aban Riziq Ariyanto | 4524210002 |
 | 3. | Khoiril Chandra | 4524210049 |
-| 4. | Maria Natalia Alyssa Beli | 4524210133 |
+| 4. | Steven Marvellius Agusto S | 4524210098 |
+| 5. | Maria Natalia Alyssa Beli | 4524210133 |
+
+**Dosen Pengampu**: Adi Wahyu Pribadi, S.Si., M.Kom
 
 **Program Studi Teknik Informatika**  
 **Fakultas Teknik Universitas Pancasila**  
